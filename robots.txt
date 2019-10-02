@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uquiengood.cosmicshades.com/sitemap.xml
